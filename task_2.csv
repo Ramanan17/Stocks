@@ -1,0 +1,26 @@
+earning datetime,accumulative weight,AM/PM,name,ticker,weight,earning day,earning date,earning time
+2021-04-27,15.18%,PM,Advanced,amd,3.12,Tuesday,27-Apr,09:10 PM GMT
+2021-04-27,15.18%,PM,Alphabet,goog,1.11,Tuesday,27-Apr,09:15 PM GMT
+2021-04-27,15.18%,PM,Alphabet,googl,1.13,Tuesday,27-Apr,09:30 PM GMT
+2021-04-27,15.18%,PM,Amgen,amgn,1.44,Tuesday,27-Apr,09:00 PM GMT
+2021-04-27,15.18%,PM,Fiserv,fisv,0.15,Tuesday,27-Apr,05:00 PM GMT
+2021-04-27,15.18%,PM,Illumina,ilmn,1.26,Tuesday,27-Apr,09:05 PM GMT
+2021-04-27,15.18%,PM,Maxim,mxim,1.77,Tuesday,27-Apr,09:00 PM GMT
+2021-04-27,15.18%,PM,Microsoft,msft,1.31,Tuesday,27-Apr,09:10 PM GMT
+2021-04-27,15.18%,PM,Mondelez,mdlz,0.03,Tuesday,27-Apr,09:05 PM GMT
+2021-04-27,15.18%,PM,PACCAR,pcar,1.52,Tuesday,27-Apr,01:00 PM GMT
+2021-04-27,15.18%,PM,Starbucks,sbux,0.7,Tuesday,27-Apr,09:05 PM GMT
+2021-04-27,15.18%,PM,Texas,txn,1.64,Tuesday,27-Apr,09:00 PM GMT
+2021-04-29,21.69%,AM,Citrix,ctxs,0.85,Thursday,29-Apr,11:00 AM GMT
+2021-04-29,21.69%,AM,Xcel,xel,0.28,Thursday,29-Apr,11:00 AM GMT
+2021-04-29,21.69%,PM,Amazon.com,amzn,1.58,Thursday,29-Apr,09:00 PM GMT
+2021-04-29,21.69%,PM,BioMarin,bmrn,0.47,Thursday,29-Apr,09:05 PM GMT
+2021-04-29,21.69%,PM,Comcast,cmcsa,0.48,Thursday,29-Apr,12:00 PM GMT
+2021-04-29,21.69%,PM,DexCom,dxcm,2.18,Thursday,29-Apr,09:00 PM GMT
+2021-04-29,21.69%,PM,Gilead,gild,1.72,Thursday,29-Apr,09:00 PM GMT
+2021-04-29,21.69%,PM,KLA,klac,2.02,Thursday,29-Apr,09:05 PM GMT
+2021-04-29,21.69%,PM,Seattle,sgen,2.6,Thursday,29-Apr,09:00 PM GMT
+2021-04-29,21.69%,PM,Skyworks,swks,1.71,Thursday,29-Apr,09:00 PM GMT
+2021-04-29,21.69%,PM,The,khc,1.47,Thursday,29-Apr,12:00 PM GMT
+2021-04-29,21.69%,PM,Vertex,vrtx,1.72,Thursday,29-Apr,09:00 PM GMT
+2021-04-29,21.69%,PM,Western,wdc,4.61,Thursday,29-Apr,09:00 PM GMT
